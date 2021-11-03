@@ -19,7 +19,7 @@ a lightweight workflow that allows you to exeperiment and collaborate on your pr
 
 ### Repositories
 
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
+A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collabasorate with you on those files.
 
 ### Cloning 
 
